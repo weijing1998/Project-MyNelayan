@@ -1,4 +1,4 @@
-# lab_2
+# Mobile Programming 
 
 A new Flutter project.
 
