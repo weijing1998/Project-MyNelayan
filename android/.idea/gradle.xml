@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.1.5/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.1/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.21+12/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.1+10/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/location-2.3.5/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.3/android" />
+            <option value="E:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.4+5/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
